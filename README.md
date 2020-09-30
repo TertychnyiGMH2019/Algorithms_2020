@@ -1,1 +1,1 @@
-# Alghoritmiki
+# Algorithms_2020
